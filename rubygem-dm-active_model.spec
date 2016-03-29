@@ -4,7 +4,7 @@
 #
 Name     : rubygem-dm-active_model
 Version  : 1.2.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/dm-active_model-1.2.1.gem
 Source0  : https://rubygems.org/downloads/dm-active_model-1.2.1.gem
 Summary  : No detailed summary available
@@ -51,39 +51,26 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/dm-active_model-1.2.1.gem
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/cdesc-InstanceMethods.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/errors-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/persisted%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/to_key-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/to_model-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/to_param-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/InstanceMethods/valid%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/ActiveModel/cdesc-ActiveModel.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/DataMapper/cdesc-DataMapper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-active_model-1.2.1/ri/page-TODO.ri
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/.document
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/CHANGELOG
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/TODO
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/VERSION
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/dm-active_model.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/lib/dm-active_model.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/lib/dm-active_model/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/spec/amo_interface_compliance_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/spec/amo_validation_compliance_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/spec/dm-active_model_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/spec/lib/amo_lint_extensions.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/spec/rcov.opts
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/spec/spec.opts
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/tasks/changelog.rake
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/tasks/spec.rake
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/tasks/yard.rake
-/usr/lib64/ruby/gems/2.2.0/gems/dm-active_model-1.2.1/tasks/yardstick.rake
-/usr/lib64/ruby/gems/2.2.0/specifications/dm-active_model-1.2.1.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/dm-active_model-1.2.1.gem
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/.document
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/CHANGELOG
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/TODO
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/VERSION
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/dm-active_model.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/lib/dm-active_model.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/lib/dm-active_model/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/spec/amo_interface_compliance_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/spec/amo_validation_compliance_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/spec/dm-active_model_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/spec/lib/amo_lint_extensions.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/spec/rcov.opts
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/spec/spec.opts
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/tasks/changelog.rake
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/tasks/spec.rake
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/tasks/yard.rake
+/usr/lib64/ruby/gems/2.3.0/gems/dm-active_model-1.2.1/tasks/yardstick.rake
+/usr/lib64/ruby/gems/2.3.0/specifications/dm-active_model-1.2.1.gemspec
